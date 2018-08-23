@@ -5,6 +5,11 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  /* font-family: 'Playfair Display', serif; */
+}
+.navbar-dark,
+.bg-dark {
+  background-color: #87ac0d !important;
 }
 .contbcg {
   background: rgba(255, 255, 255, 0.8);
@@ -42,6 +47,7 @@ h1 {
 .rectdiv {
   word-wrap: break-word !important;
 }
+
 .rectdiv:after {
   content: '';
   display: block;
@@ -53,8 +59,12 @@ h1 {
 .navbar {
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
-.pink_bcg {
-  background-color: #22a80a;
+.footer_bcg {
+  background-color: #749603;
+}
+
+.green_txt {
+  color: #258f12 !important;
 }
 .footer_ {
   padding-top: 20px;

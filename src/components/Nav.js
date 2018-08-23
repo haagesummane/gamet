@@ -10,37 +10,37 @@ class Nav extends Component {
     if (typeof this.props.active === 'number') ln_classes[this.props.active] = ' active';
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a className="navbar-brand" href="/">
-            {/* <img src={logo} width="70" alt="Gamet Seeds" /> */}
-            Gamet Seeds
-          </a>
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon" />
-          </button>
-
-          <div className="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul className="navbar-nav ml-auto">
-              {routes.map((r, i) => (
-                <li key={i} className="nav-item">
-                  <a
-                    style={{ textTransform: 'uppercase' }}
-                    className={' nav-link ' + ln_classes[i]}
-                    href={r[0]}
-                  >
-                    {r[1]}
-                  </a>
-                </li>
-              ))}
-            </ul>
+        <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+          <div className="container-fluid">
+            <a className="navbar-brand" href="/">
+              Gamet Seeds
+            </a>
+            <button
+              className="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarResponsive"
+              aria-controls="navbarResponsive"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span className="navbar-toggler-icon" />
+            </button>
+            <div className="collapse navbar-collapse" id="navbarResponsive">
+              <ul className="navbar-nav ml-auto">
+                {routes.map((r, i) => (
+                  <li key={i} className="nav-item">
+                    <a
+                      // style={{ textTransform: 'uppercase' }}
+                      className={' nav-link ' + ln_classes[i]}
+                      href={r[0]}
+                    >
+                      {r[1]}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </nav>
       </div>
