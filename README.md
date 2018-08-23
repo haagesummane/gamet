@@ -1,2 +1,1 @@
-# gamet
-webapp for gamet
+react SPA for gametseeds.com
