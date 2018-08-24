@@ -6,8 +6,9 @@ class About extends Component {
     return (
       <AppBody active={this.props.active}>
         <div className="contbcg" style={{ width: '80%', textAlign: 'center' }}>
-          <h1>About Us</h1>
-          <hr />
+          <h2>Welcome to Gamet seeds</h2>
+          <h2>About Us</h2>
+          {/* <hr /> */}
           <article style={{ textAlign: 'justify' }}>
             <p>
               Seed is the most important and critical input component that ensures productivity of

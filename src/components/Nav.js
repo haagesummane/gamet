@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import 'css/App.css';
-// import logo from 'images/logo.png';
+import logo from 'images/gamet_small.jpg';
 import routes from 'components/Routes';
 
 class Nav extends Component {
@@ -13,7 +13,7 @@ class Nav extends Component {
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              Gamet Seeds
+              <img src={logo} style={{ height: '30px', borderRadius: '1%' }} alt="Gamet seeds" />
             </a>
             <button
               className="navbar-toggler"
