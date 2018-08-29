@@ -13,31 +13,6 @@ class About extends Component {
           <hr />
           <article style={{ textAlign: 'justify' }}>
             <p>
-              Seed is the most important and critical input component that ensures productivity in
-              crop cultivation. Agriculture sector is highly dependent on the availability and
-              quality of seeds. Food security and sustainable agriculture production of any country
-              demands a systematic, strong and vibrant seed production system. We are witnessing a
-              rapid growth in hybridization and the demand for quality seed is increasing throughout
-              the globe. However, the challenge lies in meeting the expected quality, cost and
-              timely delivery.
-            </p>
-            <p>
-              In India, Agriculture is the dominant occupation, which secures abundant opportunities
-              for the seed research, seed production and marketing domains .From a predominantly
-              public sector in the 1960's, the Indian seed sector has evolved gradually in the last
-              40 years into a multi-faceted industry with involvement of both the public sector
-              organization and a large number of private firms, including some prominent global seed
-              players. India has emerged as one of the five largest seed markets across the globe.
-              Inherent strengths of India are, being the 2nd largest arable land with 46 soil types,
-              across 15 agro-climatic zones. This favors the seed production of diverse crops and
-              ensures continuous seed production activity throughout the year. This makes India, an
-              avenue for seed production hub since the country has mutual advantages of trade, due
-              to low transaction cost, availability of skilled human resource and scope for faster
-              and delivery. Besides this, enabling policy support from government such as tax
-              exemption, credit on soft terms, duty free import of machinery and integrated approach
-              towards seed science research, work as growth drivers for Indian seed sector.
-            </p>
-            <p>
               “Gamet Seeds “is a group of experienced and committed seed professionals who are
               engaged in quality seed manufacturing and supply for field (row) crops, vegetable
               crops and fodder crops. Gamet Seeds is based and operates from Bangalore (India).

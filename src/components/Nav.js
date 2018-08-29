@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import 'css/App.css';
-import logo from 'images/gamet_small-white.jpg';
+import logo from 'images/logo.png';
 import routes from 'components/Routes';
 
 class Nav extends Component {
@@ -12,8 +12,19 @@ class Nav extends Component {
       <div>
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
           <div className="container-fluid">
-            <a className="navbar-brand" href="/">
-              <img src={logo} style={{ height: '40px' }} alt="Gamet seeds" />
+            <a
+              className="navbar-brand"
+              style={{
+                display: 'flex',
+                flexDirection: 'row',
+                alignItems: 'center',
+                justifyContent: 'center',
+              }}
+              href="/"
+            >
+              {/* <img src={logo} style={{ height: '60px' }} alt="Gamet seeds" /> */}
+              {/* &nbsp; */}
+              <h2 style={{ color: 'black' }}>Gamet Seeds</h2>
             </a>
             <button
               className="navbar-toggler"
