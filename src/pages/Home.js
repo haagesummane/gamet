@@ -1,17 +1,10 @@
 import AppBody from 'components/AppBody';
 import React, { Component } from 'react';
-import seed1 from 'images/seed1.jpg';
 import 'css/Home.css';
 import logo from 'images/logo.png';
 
 class Home extends Component {
   render() {
-    document.body.style = {
-      background:
-        'linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(' +
-        seed1 +
-        ') no-repeat center center fixed !important',
-    };
     return (
       <AppBody active={this.props.active} noUpArrow={true}>
         <div

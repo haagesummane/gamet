@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 import 'css/App.css';
-import logo from 'images/logo.png';
 import routes from 'components/Routes';
 
 class Nav extends Component {
@@ -22,8 +21,6 @@ class Nav extends Component {
               }}
               href="/"
             >
-              {/* <img src={logo} style={{ height: '60px' }} alt="Gamet seeds" /> */}
-              {/* &nbsp; */}
               <h2 style={{ color: 'black' }}>Gamet Seeds</h2>
             </a>
             <button
