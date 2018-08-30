@@ -157,7 +157,7 @@ class About extends Component {
                   </p>
                 </div>
                 <div>
-                  <h2> Suresh Bhat</h2>
+                  <h2>Mr. Suresh Bhat</h2>
                   <p>
                     Suresh has the 24 years of Agriculture and Food industry experiences in
                     executive and management roles with Cargill, Monsanto, and Avesta Good Earth
