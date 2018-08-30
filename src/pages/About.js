@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     return (
       <AppBody active={this.props.active}>
-        <div className="container-fluid">
+        <div style={{ width: '90%' }} className="container-fluid">
           <div className="row">
             <div className="col-12 contbcg1" style={{ width: '80%', textAlign: 'center' }}>
               <h1>About Us</h1>
