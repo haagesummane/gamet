@@ -137,12 +137,13 @@ class About extends Component {
                     for Seed Quality Assurance, Seed Production Research, Pre-foundation &Foundation
                     seed, Hybrid seed production and Seed exports. As a management savvy Seed Tech,
                     he is passionate and hungry to explore more for the cause of Seed Industry.
-                    <br />Email:
+                    <br />Email:{' '}
+                    <a href="mailto:sureshnath@gametseeds.com">sureshnath@gametseeds.com</a>
                   </p>
                 </div>
 
                 <div>
-                  <h2> Mr. Vijayakumar Katti</h2>
+                  <h2>Mr. Vijayakumar Katti</h2>
                   <p>
                     Mr. Vijayakumar has 27 years experience in the Seed Industry with Cargill Seeds
                     and Monsanto India, particularly in executive and senior management roles.
@@ -152,6 +153,7 @@ class About extends Component {
                     Management Systems including Grow Out Tests (GOT)and ISO Enzyme tests. His
                     leadership skills in training and motivating out growers have contributed in
                     consistent business performance over the years. <br />Email:
+                    <a href="mailto:vijaykumar@gametseeds.com">vijaykumar@gametseeds.com</a>
                   </p>
                 </div>
                 <div>
@@ -166,7 +168,8 @@ class About extends Component {
                     Suresh has extensive exposure in Pre- Basic (Pre- Foundation), Basic
                     (Foundation/Stock Seed) and Hybrid seed production and supply planning,
                     coordinating, monitoring, training, procurement, processing, and inventory
-                    management activity.<br />Email:
+                    management activity.<br />Email:{' '}
+                    <a href="mailto:sureshbhat@gametseeds.com">sureshbhat@gametseeds.com</a>
                   </p>
                 </div>
               </article>
