@@ -30,8 +30,8 @@ class About extends Component {
                   2nd largest arable land with 46 soil types, across 15 agro-climatic zones. As such
                   Indian ecosystem favours the seed production of diverse crops and ensures
                   continuous seed production activity throughout the year. India has advantages of
-                  trade due to low transaction cost, availability of skilled human resource and
-                  <strong>ample scope for speedy seed delivery all round the year.</strong> This
+                  trade due to low transaction cost, availability of skilled human resource and{' '}
+                  <strong> ample scope for speedy seed delivery all round the year.</strong> This
                   makes India, a global seed production hub. Besides this, enabling policy support
                   from government such as tax exemption, credit on soft terms, duty free import of
                   machinery and an integrated approach towards seed science research, also work as
