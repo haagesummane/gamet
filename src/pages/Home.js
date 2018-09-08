@@ -33,7 +33,7 @@ class Home extends Component {
             <img src={logo} style={{ height: '150px' }} alt="Gamet seeds" />
             <div className="hometext">
               <h1>Welcome to Gamet seeds</h1>
-              <h2>Pioneers of Seeds</h2>
+              <h2>Leading Seed Manufacturer</h2>
             </div>
           </article>
         </div>
