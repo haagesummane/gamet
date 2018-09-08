@@ -20,37 +20,45 @@ class About extends Component {
                   expected quality, cost and timely delivery.
                 </p>
                 <p>
-                  In India, Agriculture is the dominant occupation, which secures abundant
-                  opportunities for the seed research, seed production and marketing domains .From a
+                  In India, Agriculture is the predominant occupation, which secures abundant
+                  opportunities for seed research, seed production and marketing domains .From a
                   predominantly public sector in the 1960's, the Indian seed sector has evolved
-                  gradually in the last 40 years into a multi-faceted industry with involvement of
-                  both the public sector organization and a large number of private firms, including
-                  some prominent global seed players. India has emerged as one of the five largest
-                  seed markets across the globe. Inherent strengths of India are, being the 2nd
-                  largest arable land with 46 soil types, across 15 agro-climatic zones. This favors
-                  the seed production of diverse crops and ensures continuous seed production
-                  activity throughout the year. This makes India, an avenue for seed production hub
-                  since the country has mutual advantages of trade, due to low transaction cost,
-                  availability of skilled human resource and scope for faster and delivery. Besides
-                  this, enabling policy support from government such as tax exemption, credit on
-                  soft terms, duty free import of machinery and integrated approach towards seed
-                  science research, work as growth drivers for Indian seed sector.
+                  rapidly in the last 40 years into a multi-faceted industry with involvement of
+                  both the public sector organization and a large number of private enterprises,
+                  including prominent global seed players. India has emerged as one of the five
+                  largest seed markets across the globe. Inherent strengths of India are, being the
+                  2nd largest arable land with 46 soil types, across 15 agro-climatic zones. As such
+                  Indian ecosystem favours the seed production of diverse crops and ensures
+                  continuous seed production activity throughout the year. India has advantages of
+                  trade due to low transaction cost, availability of skilled human resource and
+                  <strong>ample scope for speedy seed delivery all round the year.</strong> This
+                  makes India, a global seed production hub. Besides this, enabling policy support
+                  from government such as tax exemption, credit on soft terms, duty free import of
+                  machinery and an integrated approach towards seed science research, also work as
+                  growth drivers for the Indian seed Industry.
                 </p>
                 <p>
                   “Gamet Seeds “is a group of experienced and committed seed professionals who are
                   engaged in quality seed manufacturing and supply for field (row) crops, vegetable
                   crops and fodder crops. Gamet Seeds is based and operates from Bangalore (India).
-                  Gamet Seeds has a large network of experienced out growers and trained &skilled
-                  human resource in different seed production zones of India. Gamet has developed
-                  seed production system for each crop which is specific to different seasons and
-                  locations across India. Our seed production system includes Production planning,
-                  Agronomic practices and Total quality management system throughout the crop cycle.
-                  The stakeholders; such as out growers ,field management staff in the Production
-                  ecosystem get continuous knowledge and trainings on the seed production technology
-                  aspects; particularly on male and female staggering, effective pollination,
-                  isolation maintenance, off types rouging, yield estimation and post harvest
-                  management. This enables us to achieve planned quantity with right quality
-                  (Genetic, Physiological and Physical) and importantly timely supplies.
+                  Gamet Seeds has a large network of <strong>experienced out growers</strong> and
+                  trained & skilled human resource in different seed production zones of India.
+                  Gamet has developed seed production system for each crop which is specific to
+                  different seasons and locations across India. Our seed production system includes
+                  Production planning, Timely agronomic practices and Total quality management
+                  system throughout the crop cycle. The stakeholders such as ;
+                  <strong> out growers</strong> ,trained field management staff , field operations
+                  crew get continuous knowledge and trainings on the seed production technology
+                  aspects, particularly male and female staggering, effective pollination, isolation
+                  maintenance, off types rouging, yield estimation and post harvest quality
+                  management. This enables Gamet to achieve planned quantities with right quality
+                  (Genetic, Physiological and Physical) and importantly timely supplies
+                </p>
+                <p>
+                  <strong>
+                    While Gamet works ONLY as a backend quality seed producer, it does NOT involve
+                    in any Retail / Brand seed sales and marketing activity.
+                  </strong>
                 </p>
                 <div>
                   <h3>Gamet Seeds Focus Crops:</h3> Following are the focus crops of Gamet for the
@@ -137,7 +145,7 @@ class About extends Component {
                     for Seed Quality Assurance, Seed Production Research, Pre-foundation &Foundation
                     seed, Hybrid seed production and Seed exports. As a management savvy Seed Tech,
                     he is passionate and hungry to explore more for the cause of Seed Industry.
-                    <br />Email:{' '}
+                    <br />Email:
                     <a href="mailto:sureshnath@gametseeds.com">sureshnath@gametseeds.com</a>
                   </p>
                 </div>
