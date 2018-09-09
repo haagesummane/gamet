@@ -2,14 +2,15 @@ import React, { Component } from 'react';
 
 import 'css/App.css';
 import routes from 'components/Routes';
+import logo from 'images/logo.png';
 
 class Nav extends Component {
   render() {
     var ln_classes = Array(routes.length);
     if (typeof this.props.active === 'number') ln_classes[this.props.active] = ' active';
     return (
-      <div>
-        <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+      <div style={{ marginBottom: '88px' }}>
+        <nav className="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
           <div className="container-fluid">
             <a
               className="navbar-brand"
@@ -21,6 +22,7 @@ class Nav extends Component {
               }}
               href="/"
             >
+              <img src={logo} style={{ height: '60px' }} alt="Gamet seeds" />
               <h2 style={{ color: 'black' }}>Gamet Seeds</h2>
             </a>
             <button

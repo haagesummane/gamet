@@ -4,6 +4,7 @@ import Footer from 'components/Footer';
 
 class AppBody extends Component {
   render() {
+    const cn = this.props.className;
     return (
       <div>
         <section id="header">
@@ -18,6 +19,7 @@ class AppBody extends Component {
             alignItems: 'center',
             ...this.props.style,
           }}
+          className={cn ? cn : ''}
         >
           {this.props.children}
         </section>
