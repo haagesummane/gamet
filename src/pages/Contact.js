@@ -60,7 +60,8 @@ class Contact extends Component {
                       <span>
                         Gamet seeds:<br />
                         <p>
-                          #1031,22nd B Main, 24th B cross, HSR Layout, Sector 2, Bengaluru, 560 102
+                          #1031,22nd B Main, 24th B cross, HSR Layout, Sector 2, Bengaluru, India -
+                          560 102
                           <br />Email:&nbsp;
                           <a href="mailto:support@gametseeds.com"> support@gametseeds.com </a>
                         </p>
