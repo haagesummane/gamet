@@ -62,6 +62,51 @@ class About extends Component {
                         <a href="mailto:sureshbhat@gametseeds.com">sureshbhat@gametseeds.com</a>
                       </p>
                     </div>
+                    <div>
+                      <h2>Dhruv Washishth</h2>
+                      <p>
+                        Dhruv Washishth is an entrepreneur based in San Francisco. He has worked in
+                        Silicon Valley, Bangalore, and London. He is a recipient of the prestigious <b
+                        >
+                          EB1 &quot;Alien of Extraordinary Ability&quot; Permanent Resident card
+                          from the US government.
+                        </b>
+                        He was selected by the Government of UK as a Young Global Entrepreneur. He
+                        is an alum of The London School of Economics (MSc - Discontinued) &amp;
+                        Christ University, Bangalore, India. He has run two startups, worked as a
+                        management consultant and is a mentor at Draper University in San Mateo,
+                        California. He is leading the business development efforts for GAMET SEEDS
+                        in the US.
+                        <br />Email:{' '}
+                        <a href="mailto:dhruvw@gametseeds.com">dhruvw@gametseeds.com</a>
+                      </p>
+                    </div>
+                  </article>
+                </div>
+              </div>
+
+              <div className="row">
+                <div className="col-12 contbcg2">
+                  <h1 style={{ textAlign: 'center', width: '100%' }}>Mentor</h1>
+                  <hr />
+                  <article style={{ textAlign: 'justify' }}>
+                    <div>
+                      <h2>Dr. A Sitaram</h2>
+                      <p>
+                        Dr Sitaram is plant breeder of national repute, responsible for development
+                        and release of first hybrids in oil seed. He was National coordinator for
+                        Oil seeds and Nutri-Cereals research project of government of India. He was
+                        responsible for the development and release of more than sixty varieties /
+                        Hybrids across different agro climatic regions of India. He was also a
+                        curator for one of the largest Nutri-Cereals germplasm, for collection,
+                        evaluation and utilization. He was an elected fellow of Indian Society of
+                        Genetics &amp; Plant breeding and National Academy of Agriculture Sciences.
+                        As Professor of Genetics &amp; Plant breeding he guided forty post graduate
+                        and doctoral studies. Dr Sitaram is a guiding force behind GAMET SEEDS and
+                        supporting GAMET with his enormous networks of Genetics &amp; Plant breeding
+                        platforms across India and Globe.
+                      </p>
+                    </div>
                   </article>
                 </div>
               </div>
