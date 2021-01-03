@@ -33,8 +33,8 @@ class About extends Component {
                         Parental lines Genetic purity management and also ensuring, overall Quality
                         systems for Seed supply Chain. In addition he is involved in export clients
                         needs of phytosanitary clearances & Logistics.
-                        <br />Email:
-                        <a href="mailto:sureshnath@gametseeds.com">sureshnath@gametseeds.com</a>
+                        {/*<br />Email:*/}
+                        {/*<a href="mailto:sureshnath@gametseeds.com">sureshnath@gametseeds.com</a>*/}
                       </p>
                     </div>
 
@@ -52,8 +52,8 @@ class About extends Component {
                         <br />
                         He is taking care of vegetable seed production and mainly row crop seed
                         production at Gamet seed.
-                        <br />Email:
-                        <a href="mailto:vijaykumar@gametseeds.com">vijaykumar@gametseeds.com</a>
+                        {/*<br />Email:*/}
+                        {/*<a href="mailto:vijaykumar@gametseeds.com">vijaykumar@gametseeds.com</a>*/}
                       </p>
                     </div>
                     <div>
@@ -70,8 +70,9 @@ class About extends Component {
                         supply planning, coordinating, monitoring, training, procurement,
                         processing, and inventory management activity.<br />He is responsible for
                         Foundation and Foundation and Pre-foundation seed production in addition to
-                        client engagement and stewardship activities at Gamet seeds<br />Email:{' '}
-                        <a href="mailto:sureshbhat@gametseeds.com">sureshbhat@gametseeds.com</a>
+                        client engagement and stewardship activities at Gamet seeds
+                        {/*<br />Email:{' '}*/}
+                        {/*<a href="mailto:sureshbhat@gametseeds.com">sureshbhat@gametseeds.com</a>*/}
                       </p>
                     </div>
                     <div>
@@ -89,8 +90,8 @@ class About extends Component {
                         management consultant and is a mentor at Draper University in San Mateo,
                         California. <br />He is leading the business development efforts for GAMET
                         SEEDS in the US.
-                        <br />Email:{' '}
-                        <a href="mailto:dhruvw@gametseeds.com">dhruvw@gametseeds.com</a>
+                        {/*<br />Email:{' '}*/}
+                        {/*<a href="mailto:dhruvw@gametseeds.com">dhruvw@gametseeds.com</a>*/}
                       </p>
                     </div>
                     <div>
