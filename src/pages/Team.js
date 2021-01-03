@@ -1,5 +1,6 @@
 import AppBody from 'components/AppBody';
 import React, { Component } from 'react';
+
 // import logo from 'images/logo.png';
 
 class About extends Component {
@@ -27,6 +28,11 @@ class About extends Component {
                         Pre-foundation &Foundation seed, Hybrid seed production and Seed exports. As
                         a management savvy Seed Tech, he is passionate and hungry to explore more
                         for the cause of Seed Industry.
+                        <br />
+                        He looks after overall management and activities of Gamet seed business .
+                        Parental lines Genetic purity management and also ensuring, overall Quality
+                        systems for Seed supply Chain. In addition he is involved in export clients
+                        needs of phytosanitary clearances & Logistics.
                         <br />Email:
                         <a href="mailto:sureshnath@gametseeds.com">sureshnath@gametseeds.com</a>
                       </p>
@@ -42,7 +48,11 @@ class About extends Component {
                         himself as a unique and proven Seed Agronomist. He is well versed with field
                         Quality Management Systems including Grow Out Tests (GOT)and ISO Enzyme
                         tests. His leadership skills in training and motivating out growers have
-                        contributed in consistent business performance over the years. <br />Email:
+                        contributed in consistent business performance over the years.
+                        <br />
+                        He is taking care of vegetable seed production and mainly row crop seed
+                        production at Gamet seed.
+                        <br />Email:
                         <a href="mailto:vijaykumar@gametseeds.com">vijaykumar@gametseeds.com</a>
                       </p>
                     </div>
@@ -58,27 +68,48 @@ class About extends Component {
                         postgraduate studies. Suresh has extensive exposure in Pre- Basic (Pre-
                         Foundation), Basic (Foundation/Stock Seed) and Hybrid seed production and
                         supply planning, coordinating, monitoring, training, procurement,
-                        processing, and inventory management activity.<br />Email:{' '}
+                        processing, and inventory management activity.<br />He is responsible for
+                        Foundation and Foundation and Pre-foundation seed production in addition to
+                        client engagement and stewardship activities at Gamet seeds<br />Email:{' '}
                         <a href="mailto:sureshbhat@gametseeds.com">sureshbhat@gametseeds.com</a>
                       </p>
                     </div>
                     <div>
                       <h2>Dhruv Washishth</h2>
                       <p>
-                        Dhruv Washishth is an entrepreneur based in San Francisco. He has worked in
-                        Silicon Valley, Bangalore, and London. He is a recipient of the prestigious <b
-                        >
+                        Dhruv Washishth is an entrepreneur based in San Francisco. He has worked in
+                        Silicon Valley, Bangalore, and London. He is a recipient of the prestigious{' '}
+                        <b>
                           EB1 &quot;Alien of Extraordinary Ability&quot; Permanent Resident card
                           from the US government.
                         </b>
-                        He was selected by the Government of UK as a Young Global Entrepreneur. He
+                        He was selected by the Government of UK as a Young Global Entrepreneur. He
                         is an alum of The London School of Economics (MSc - Discontinued) &amp;
                         Christ University, Bangalore, India. He has run two startups, worked as a
                         management consultant and is a mentor at Draper University in San Mateo,
-                        California. He is leading the business development efforts for GAMET SEEDS
-                        in the US.
+                        California. <br />He is leading the business development efforts for GAMET
+                        SEEDS in the US.
                         <br />Email:{' '}
                         <a href="mailto:dhruvw@gametseeds.com">dhruvw@gametseeds.com</a>
+                      </p>
+                    </div>
+                    <div>
+                      <h2>Kashinath Arawat</h2>
+                      <p>
+                        Kashinath Arawat is a well known AGRONOMIST in seed industry of India. He
+                        was graduated in Agriculture Sciences from MPAU,Rahuri,India. His vast
+                        knowledge with Soils, Agronomic practices & Seeds science made a fruitful
+                        career through Mahyco seeds ,Cargill Seeds, Monsanto India & Syngenta Seeds
+                        for 22 years. He has in depth experience of seed production and quality
+                        management of both row crops and vegetable crops. He has developed several
+                        INNOVATIVE Agronomic and critical technological practices for VEGETABLE SEED
+                        Production, across different geographical locations in India. His experience
+                        in Vegetable Seed production is invaluable both for domestic & for Export
+                        Seed Supply Chain needs.<br /> At Gamet seed, he manages Row crops and
+                        Vegetable seed production.
+                        <br />
+                        {/*Email:{" "}*/}
+                        {/*<a href="mailto:dhruvw@gametseeds.com">dhruvw@gametseeds.com</a>*/}
                       </p>
                     </div>
                   </article>
@@ -117,4 +148,5 @@ class About extends Component {
     );
   }
 }
+
 export default About;
